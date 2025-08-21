@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.abouthead {
+  background-color: #e6e4e1;
+  text-align: center;
+  font-weight: 200;
+  color: rgb(10, 3, 2)
+}
+
+.about-home {
+  margin: 10px;
+  padding: 10px;
+  font-weight: 200;
+  text-align: center;
+  gap: 2em;
+  
+}
+.about-1 {
+  color: rgb(253, 17, 29);
+  font-weight: 200;
+}
+
+.about-1:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.about-2 {
+  padding: 10px;
+  margin: 10px;
+  text-decoration: underline;
+  text-decoration-color: rgb(119, 30, 30);
+  text-decoration-thickness: 3px;
+}
+
+.mission-1 {
+  list-style: circle;
+  margin: 5%;
+  margin-top: 3px;
+}
+
+
+.anthem-h2 {
+  padding: 10px;
+  margin: 10px;
+  text-decoration: underline;
+  text-decoration-color: rgb(119, 30, 30);
+  text-decoration-thickness: 3px;
+}
+
+.anthem-h4 {
+  text-align: left;
+  margin-bottom: 5px;
+  padding-left: 2em;
+}
